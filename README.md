@@ -9,7 +9,7 @@
 Deploy To Heroku
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ietupdates/minnalprivate/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/ietupdates/minnaltest/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
